@@ -1,17 +1,23 @@
 # site settings
-title: Forty
+title: MIT Assistive Technology Club
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+email: assistive-technology-exec@mit.edu
+description: Our mission is to make the world more accessible to everyone 
+<br /> by building connections within our community and fostering 
+<br /> collaborative efforts to create inclusive technology. Through AT@MIT, 
+<br /> we introduce students to the fun (and challenging) design space of 
+<br /> assistive technology while building connections between community members, 
+<br /> engineers, and designers. We hope to inspire participants to pursue projects 
+in the AT space in the future.
+baseurl: "/at-club" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 77 Massachusetts Ave
+city: Cambridge
+state: MA
+zip_code: 02139
 country: United States of America
-phone: (716) 555-5555
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,12 +28,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/MIT-Assistive-Technology
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Google-Plus: 
+  Instagram: https://www.instagram.com/assistivetech_mit/
+  LinkedIn: https://www.linkedin.com/company/mit-assistive-technology-club/
+  Twitter: 
   Facebook:
   Slack:
 
